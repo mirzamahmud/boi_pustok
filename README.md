@@ -1,16 +1,11 @@
 # boi_pustok
+A Flutter project for Books.
 
-A new Flutter project.
+## Flutter Version
+Flutter 3.10.5
+Tools • Dart 3.0.5 • DevTools 2.23.1
 
-## Getting Started
+## Project Screens
+![intro_screen](https://github.com/mirzamahmud/boi_pustok/assets/91328350/dd390918-deba-4912-9c34-29097b3b13e3)    ![home_screen](https://github.com/mirzamahmud/boi_pustok/assets/91328350/c1e7dd1c-53a4-4958-bda5-d98bcf95c597)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![list_screen](https://github.com/mirzamahmud/boi_pustok/assets/91328350/76002f1a-f025-4831-815b-c7b81f8025ba)
